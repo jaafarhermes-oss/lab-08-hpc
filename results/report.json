@@ -1,0 +1,27 @@
+{
+  "example": true,
+  "job_id": "987654",
+  "total_books": 3,
+  "completed": 3,
+  "failed": 0,
+  "results": [
+    {
+      "task_id": 1,
+      "book": "book1.txt",
+      "status": "COMPLETED",
+      "genre": "Fiction"
+    },
+    {
+      "task_id": 2,
+      "book": "book2.txt",
+      "status": "COMPLETED",
+      "genre": "Adventure"
+    },
+    {
+      "task_id": 3,
+      "book": "book3.txt",
+      "status": "COMPLETED",
+      "genre": "Mystery"
+    }
+  ]
+}
