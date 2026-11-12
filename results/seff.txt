@@ -1,0 +1,9 @@
+SIMULATED EXAMPLE - NOT ACTUAL HPC OUTPUT
+Job ID: 987654_1
+State: COMPLETED
+Cores: 2
+Nodes: 1
+CPU Utilized: 00:01:42
+Job Wall-clock time: 00:02:11
+Memory Utilized: 3.00 GB
+Memory Efficiency: 18.75%
