@@ -1,5 +1,3 @@
-SIMULATED EXAMPLE
-
 INFO Task 1: summarizing book1.txt
 INFO Book book1.txt has genre Fiction
 INFO Summarized book1.txt in 102.0 seconds on gpu001
